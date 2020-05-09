@@ -1,0 +1,5 @@
+
+- name: awsnew
+  hosts: localhost
+  roles: 
+    - aws
